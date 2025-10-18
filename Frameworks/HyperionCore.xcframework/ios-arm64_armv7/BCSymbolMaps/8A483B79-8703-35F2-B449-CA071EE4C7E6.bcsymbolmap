@@ -1,0 +1,952 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+/Applications/Xcode-12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
+iPhoneOS14.4.sdk
+/Users/distiller/Library/Developer/Xcode/DerivedData/HyperionFramework-dxwclpzxhkqvsqgjsxodylhgcaes/Build/Intermediates.noindex/ArchiveIntermediates/HyperionCore/IntermediateBuildFilesPath/HyperionCore.build/Release-iphoneos/HyperionCore.build/DerivedSources/HyperionCore_vers.c
+/Users/distiller/project/HyperionCore
+-[HYPOverlayDebuggingViewController supportedInterfaceOrientations]
+-[HYPOverlayDebuggingViewController preferredStatusBarStyle]
+-[HYPOverlayDebuggingViewController shouldAutorotate]
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+__OBJC_METACLASS_RO_$_HYPOverlayDebuggingViewController
+__OBJC_$_INSTANCE_METHODS_HYPOverlayDebuggingViewController
+__OBJC_CLASS_RO_$_HYPOverlayDebuggingViewController
+/Users/distiller/project/Core/OverlayDebuggingWindow/HYPOverlayDebuggingViewController.m
+Core/OverlayDebuggingWindow/HYPOverlayDebuggingViewController.m
+/Users/distiller/project
+-[HYPViewSelectionTableViewController initWithViewSelectionOptions:delegate:]
+-[HYPViewSelectionTableViewController viewDidLoad]
+-[HYPViewSelectionTableViewController didReceiveMemoryWarning]
+-[HYPViewSelectionTableViewController tableView:numberOfRowsInSection:]
+-[HYPViewSelectionTableViewController tableView:cellForRowAtIndexPath:]
+-[HYPViewSelectionTableViewController tableView:didSelectRowAtIndexPath:]
+-[HYPViewSelectionTableViewController views]
+-[HYPViewSelectionTableViewController setViews:]
+-[HYPViewSelectionTableViewController delegate]
+-[HYPViewSelectionTableViewController setDelegate:]
+-[HYPViewSelectionTableViewController .cxx_destruct]
+_OBJC_IVAR_$_HYPViewSelectionTableViewController._delegate
+_OBJC_CLASSLIST_REFERENCES_$_.7
+_OBJC_SELECTOR_REFERENCES_.9
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_SELECTOR_REFERENCES_.21
+_OBJC_SELECTOR_REFERENCES_.23
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.41
+_OBJC_SELECTOR_REFERENCES_.43
+_OBJC_SELECTOR_REFERENCES_.45
+_OBJC_SELECTOR_REFERENCES_.47
+_OBJC_CLASSLIST_REFERENCES_$_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_IVAR_$_HYPViewSelectionTableViewController._views
+__OBJC_METACLASS_RO_$_HYPViewSelectionTableViewController
+__OBJC_$_INSTANCE_METHODS_HYPViewSelectionTableViewController
+__OBJC_$_INSTANCE_VARIABLES_HYPViewSelectionTableViewController
+__OBJC_$_PROP_LIST_HYPViewSelectionTableViewController
+__OBJC_CLASS_RO_$_HYPViewSelectionTableViewController
+/Users/distiller/project/Core/SnapShotDebuggingWindow/HYPViewSelectionTableViewController.m
+Core/SnapShotDebuggingWindow/HYPViewSelectionTableViewController.m
+__OBJC_METACLASS_RO_$_HYPPluginContainerView
+__OBJC_CLASS_RO_$_HYPPluginContainerView
+/Users/distiller/project/Core/HYPPluginContainerView.m
+-[HYPPluginMenuItem init]
+-[HYPPluginMenuItem pluginTapped]
+-[HYPPluginMenuItem bindWithTitle:image:]
+-[HYPPluginMenuItem setSelected:animated:]
+-[HYPPluginMenuItem setHeight:]
+-[HYPPluginMenuItem delegate]
+-[HYPPluginMenuItem setDelegate:]
+-[HYPPluginMenuItem isSelected]
+-[HYPPluginMenuItem tapGesture]
+-[HYPPluginMenuItem setTapGesture:]
+-[HYPPluginMenuItem titleLabel]
+-[HYPPluginMenuItem setTitleLabel:]
+-[HYPPluginMenuItem pluginImageView]
+-[HYPPluginMenuItem setPluginImageView:]
+-[HYPPluginMenuItem height]
+-[HYPPluginMenuItem heightConstraint]
+-[HYPPluginMenuItem setHeightConstraint:]
+-[HYPPluginMenuItem .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.7
+_OBJC_IVAR_$_HYPPluginMenuItem._height
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_CLASSLIST_REFERENCES_$_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_IVAR_$_HYPPluginMenuItem._selected
+_OBJC_CLASSLIST_REFERENCES_$_.59
+_OBJC_SELECTOR_REFERENCES_.61
+_OBJC_SELECTOR_REFERENCES_.63
+_OBJC_CLASSLIST_REFERENCES_$_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_SELECTOR_REFERENCES_.74
+_OBJC_IVAR_$_HYPPluginMenuItem._delegate
+_OBJC_IVAR_$_HYPPluginMenuItem._tapGesture
+_OBJC_IVAR_$_HYPPluginMenuItem._titleLabel
+_OBJC_IVAR_$_HYPPluginMenuItem._pluginImageView
+_OBJC_IVAR_$_HYPPluginMenuItem._heightConstraint
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPPluginMenuItem
+__OBJC_$_PROP_LIST_HYPPluginMenuItem
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPluginMenuItem
+__OBJC_PROTOCOL_$_HYPPluginMenuItem
+__OBJC_LABEL_PROTOCOL_$_HYPPluginMenuItem
+__OBJC_CLASS_PROTOCOLS_$_HYPPluginMenuItem
+__OBJC_METACLASS_RO_$_HYPPluginMenuItem
+__OBJC_$_INSTANCE_METHODS_HYPPluginMenuItem
+__OBJC_$_INSTANCE_VARIABLES_HYPPluginMenuItem
+__OBJC_$_PROP_LIST_HYPPluginMenuItem.123
+__OBJC_CLASS_RO_$_HYPPluginMenuItem
+/Users/distiller/project/Core/Public/Plugin/HYPPluginMenuItem.m
+Core/Public/Plugin/HYPPluginMenuItem.m
+Core/Public/Plugin/HYPPluginMenuItem.h
+-[HYPSnapshotDebuggingWindow initWithFrame:]
+-[HYPSnapshotDebuggingWindow initWithAttachedWindow:]
+-[HYPSnapshotDebuggingWindow init]
+-[HYPSnapshotDebuggingWindow setup]
+-[HYPSnapshotDebuggingWindow togglePluginDrawer]
+-[HYPSnapshotDebuggingWindow deactivate]
+-[HYPSnapshotDebuggingWindow snapshotContainer]
+-[HYPSnapshotDebuggingWindow setHidden:]
+-[HYPSnapshotDebuggingWindow cleanup]
+-[HYPSnapshotDebuggingWindow makeKeyWindow]
+-[HYPSnapshotDebuggingWindow overlayVC]
+-[HYPSnapshotDebuggingWindow setOverlayVC:]
+-[HYPSnapshotDebuggingWindow lastEvent]
+-[HYPSnapshotDebuggingWindow setLastEvent:]
+-[HYPSnapshotDebuggingWindow highlightView]
+-[HYPSnapshotDebuggingWindow setHighlightView:]
+-[HYPSnapshotDebuggingWindow lastSelectedView]
+-[HYPSnapshotDebuggingWindow setLastSelectedView:]
+-[HYPSnapshotDebuggingWindow twoFingerTapRecognizer]
+-[HYPSnapshotDebuggingWindow setTwoFingerTapRecognizer:]
+-[HYPSnapshotDebuggingWindow threeFingerTapRecognizer]
+-[HYPSnapshotDebuggingWindow setThreeFingerTapRecognizer:]
+-[HYPSnapshotDebuggingWindow edgeSwipeRecognizer]
+-[HYPSnapshotDebuggingWindow setEdgeSwipeRecognizer:]
+-[HYPSnapshotDebuggingWindow start]
+-[HYPSnapshotDebuggingWindow setStart:]
+-[HYPSnapshotDebuggingWindow end]
+-[HYPSnapshotDebuggingWindow setEnd:]
+-[HYPSnapshotDebuggingWindow associatedFlag]
+-[HYPSnapshotDebuggingWindow setAssociatedFlag:]
+-[HYPSnapshotDebuggingWindow attachedWindow]
+-[HYPSnapshotDebuggingWindow setAttachedWindow:]
+-[HYPSnapshotDebuggingWindow deactivateDrawerPanGesture]
+-[HYPSnapshotDebuggingWindow setDeactivateDrawerPanGesture:]
+-[HYPSnapshotDebuggingWindow dismissDrawerTapGesture]
+-[HYPSnapshotDebuggingWindow setDismissDrawerTapGesture:]
+-[HYPSnapshotDebuggingWindow fadeViewTapRecognizer]
+-[HYPSnapshotDebuggingWindow setFadeViewTapRecognizer:]
+-[HYPSnapshotDebuggingWindow .cxx_destruct]
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._attachedWindow
+_OBJC_SELECTOR_REFERENCES_.12
+_OBJC_SELECTOR_REFERENCES_.14
+_OBJC_SELECTOR_REFERENCES_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_CLASSLIST_REFERENCES_$_.19
+_OBJC_CLASSLIST_REFERENCES_$_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_CLASSLIST_REFERENCES_$_.39
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._overlayVC
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._lastEvent
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._highlightView
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._lastSelectedView
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._twoFingerTapRecognizer
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._threeFingerTapRecognizer
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._edgeSwipeRecognizer
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._start
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._end
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._associatedFlag
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._deactivateDrawerPanGesture
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._dismissDrawerTapGesture
+_OBJC_IVAR_$_HYPSnapshotDebuggingWindow._fadeViewTapRecognizer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIGestureRecognizerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIGestureRecognizerDelegate
+__OBJC_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_LABEL_PROTOCOL_$_UIGestureRecognizerDelegate
+__OBJC_CLASS_PROTOCOLS_$_HYPSnapshotDebuggingWindow
+__OBJC_METACLASS_RO_$_HYPSnapshotDebuggingWindow
+__OBJC_$_INSTANCE_METHODS_HYPSnapshotDebuggingWindow
+__OBJC_$_INSTANCE_VARIABLES_HYPSnapshotDebuggingWindow
+__OBJC_$_PROP_LIST_HYPSnapshotDebuggingWindow
+__OBJC_CLASS_RO_$_HYPSnapshotDebuggingWindow
+/Users/distiller/project/Core/SnapShotDebuggingWindow/HYPSnapshotDebuggingWindow.m
+Core/SnapShotDebuggingWindow/HYPSnapshotDebuggingWindow.m
+Core/SnapShotDebuggingWindow/HYPSnapshotDebuggingWindow.h
+-[HYPInAppOverlayContainer init]
+-[HYPInAppOverlayContainer hitTest:withEvent:]
+-[HYPInAppOverlayContainer setOverlayModule:]
+-[HYPInAppOverlayContainer overlayModule]
+-[HYPInAppOverlayContainer delegate]
+-[HYPInAppOverlayContainer setDelegate:]
+-[HYPInAppOverlayContainer listeners]
+-[HYPInAppOverlayContainer setListeners:]
+-[HYPInAppOverlayContainer currentPluginContainer]
+-[HYPInAppOverlayContainer setCurrentPluginContainer:]
+-[HYPInAppOverlayContainer .cxx_destruct]
+_OBJC_IVAR_$_HYPInAppOverlayContainer._listeners
+_OBJC_CLASSLIST_REFERENCES_$_.10
+_OBJC_IVAR_$_HYPInAppOverlayContainer._overlayModule
+_OBJC_IVAR_$_HYPInAppOverlayContainer._currentPluginContainer
+_OBJC_IVAR_$_HYPInAppOverlayContainer._delegate
+__OBJC_$_PROTOCOL_REFS_HYPOverlayContainer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPOverlayContainer
+__OBJC_$_PROP_LIST_HYPOverlayContainer
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPOverlayContainer
+__OBJC_PROTOCOL_$_HYPOverlayContainer
+__OBJC_LABEL_PROTOCOL_$_HYPOverlayContainer
+__OBJC_CLASS_PROTOCOLS_$_HYPInAppOverlayContainer
+__OBJC_METACLASS_RO_$_HYPInAppOverlayContainer
+__OBJC_$_INSTANCE_METHODS_HYPInAppOverlayContainer
+__OBJC_$_INSTANCE_VARIABLES_HYPInAppOverlayContainer
+__OBJC_$_PROP_LIST_HYPInAppOverlayContainer
+__OBJC_CLASS_RO_$_HYPInAppOverlayContainer
+/Users/distiller/project/Core/OverlayDebuggingWindow/HYPInAppOverlayContainer.m
+Core/OverlayDebuggingWindow/HYPInAppOverlayContainer.m
+Core/OverlayDebuggingWindow/HYPInAppOverlayContainer.h
+-[HYPPluginExtension initWithSnapshotContainer:overlayContainer:hypeWindow:attachedWindow:]
+-[HYPPluginExtension attachedWindow]
+-[HYPPluginExtension hypeWindow]
+-[HYPPluginExtension snapshotContainer]
+-[HYPPluginExtension overlayContainer]
+-[HYPPluginExtension presentViewControllerOverDrawer:animated:]
+-[HYPPluginExtension setSnapshotContainer:]
+-[HYPPluginExtension setOverlayContainer:]
+-[HYPPluginExtension setHypeWindow:]
+-[HYPPluginExtension setAttachedWindow:]
+-[HYPPluginExtension .cxx_destruct]
+__OBJC_$_PROTOCOL_REFS_HYPPluginExtension
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPPluginExtension
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPluginExtension
+__OBJC_PROTOCOL_$_HYPPluginExtension
+__OBJC_LABEL_PROTOCOL_$_HYPPluginExtension
+__OBJC_CLASS_PROTOCOLS_$_HYPPluginExtension
+__OBJC_METACLASS_RO_$_HYPPluginExtension
+__OBJC_$_INSTANCE_METHODS_HYPPluginExtension
+_OBJC_IVAR_$_HYPPluginExtension._snapshotContainer
+_OBJC_IVAR_$_HYPPluginExtension._overlayContainer
+_OBJC_IVAR_$_HYPPluginExtension._hypeWindow
+_OBJC_IVAR_$_HYPPluginExtension._attachedWindow
+__OBJC_$_INSTANCE_VARIABLES_HYPPluginExtension
+__OBJC_$_PROP_LIST_HYPPluginExtension
+__OBJC_CLASS_RO_$_HYPPluginExtension
+/Users/distiller/project/Core/HYPPluginExtensionImp.m
+Core/HYPPluginExtensionImp.m
++[UIWindow(Swizzling) load]
+___27+[UIWindow(Swizzling) load]_block_invoke
+___copy_helper_block_e4_
+___destroy_helper_block_e4_
+-[UIWindow(Swizzling) xxx_makeKeyWindow]
+-[UIWindow(Swizzling) canAttachToWindow:]
+_load.onceToken
+_OBJC_CLASSLIST_REFERENCES_$_.9
+___block_descriptor_24_e4__e5_v4?0l
+_OBJC_CLASSLIST_REFERENCES_$_.16
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIWindow_$_Swizzling
+__OBJC_$_CATEGORY_CLASS_METHODS_UIWindow_$_Swizzling
+__OBJC_$_CATEGORY_UIWindow_$_Swizzling
+/Users/distiller/project/Core/Swizzling/UIWindow+Swizzling.m
+Core/Swizzling/UIWindow+Swizzling.m
+__destroy_helper_block_e4_
+__copy_helper_block_e4_
+__27+[UIWindow(Swizzling) load]_block_invoke
+/Applications/Xcode-12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/usr/include/dispatch/once.h
++[HYPPluginHelper findSubviewsInView:intersectingPoint:]
++[HYPPluginHelper view:surrondsPoint:]
++[HYPPluginHelper blacklistedViews]
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_CLASSLIST_REFERENCES_$_.29
+_OBJC_CLASSLIST_REFERENCES_$_.36
+_OBJC_CLASSLIST_REFERENCES_$_.37
+__OBJC_$_CLASS_METHODS_HYPPluginHelper
+__OBJC_METACLASS_RO_$_HYPPluginHelper
+__OBJC_CLASS_RO_$_HYPPluginHelper
+/Users/distiller/project/Core/Public/Plugin/HYPPluginHelper.m
+Core/Public/Plugin/HYPPluginHelper.m
++[UIApplication(Swizzling) load]
+___32+[UIApplication(Swizzling) load]_block_invoke
+-[UIApplication(Swizzling) xxx_sendEvent:]
+_OBJC_CLASSLIST_REFERENCES_$_.14
+__OBJC_$_CATEGORY_INSTANCE_METHODS_UIApplication_$_Swizzling
+__OBJC_$_CATEGORY_CLASS_METHODS_UIApplication_$_Swizzling
+__OBJC_$_CATEGORY_UIApplication_$_Swizzling
+/Users/distiller/project/Core/Swizzling/UIApplication+Swizzling.m
+Core/Swizzling/UIApplication+Swizzling.m
+__32+[UIApplication(Swizzling) load]_block_invoke
+-[PluginContainerView initWithPluginModule:pluginView:]
+-[PluginContainerView pluginView]
+-[PluginContainerView setPluginView:]
+-[PluginContainerView pluginModule]
+-[PluginContainerView setPluginModule:]
+-[PluginContainerView .cxx_destruct]
+-[PluginListViewController viewDidLoad]
+-[PluginListViewController loadTabs]
+-[PluginListViewController addEmptyState]
+-[PluginListViewController linkTap:]
+-[PluginListViewController setPluginModules:]
+-[PluginListViewController pluginModules]
+-[PluginListViewController containerViews]
+-[PluginListViewController setContainerViews:]
+-[PluginListViewController pluginList]
+-[PluginListViewController setPluginList:]
+-[PluginListViewController pluginScrollView]
+-[PluginListViewController setPluginScrollView:]
+-[PluginListViewController .cxx_destruct]
+_OBJC_IVAR_$_PluginContainerView._pluginView
+_OBJC_IVAR_$_PluginContainerView._pluginModule
+__OBJC_METACLASS_RO_$_PluginContainerView
+__OBJC_$_INSTANCE_METHODS_PluginContainerView
+__OBJC_$_INSTANCE_VARIABLES_PluginContainerView
+__OBJC_$_PROP_LIST_PluginContainerView
+__OBJC_CLASS_RO_$_PluginContainerView
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_CLASSLIST_REFERENCES_$_.43
+_OBJC_SELECTOR_REFERENCES_.49
+_OBJC_SELECTOR_REFERENCES_.51
+_OBJC_SELECTOR_REFERENCES_.53
+_OBJC_CLASSLIST_REFERENCES_$_.54
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_IVAR_$_PluginListViewController._pluginScrollView
+_OBJC_SELECTOR_REFERENCES_.76
+_OBJC_SELECTOR_REFERENCES_.78
+_OBJC_SELECTOR_REFERENCES_.80
+_OBJC_SELECTOR_REFERENCES_.82
+_OBJC_SELECTOR_REFERENCES_.84
+_OBJC_SELECTOR_REFERENCES_.86
+_OBJC_SELECTOR_REFERENCES_.88
+_OBJC_CLASSLIST_REFERENCES_$_.89
+_OBJC_CLASSLIST_REFERENCES_$_.90
+_OBJC_CLASSLIST_REFERENCES_$_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_SELECTOR_REFERENCES_.97
+_OBJC_SELECTOR_REFERENCES_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_CLASSLIST_REFERENCES_$_.104
+_OBJC_SELECTOR_REFERENCES_.106
+_OBJC_SELECTOR_REFERENCES_.110
+_OBJC_SELECTOR_REFERENCES_.112
+_OBJC_CLASSLIST_REFERENCES_$_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_CLASSLIST_REFERENCES_$_.122
+_OBJC_SELECTOR_REFERENCES_.126
+_OBJC_CLASSLIST_REFERENCES_$_.127
+_OBJC_CLASSLIST_REFERENCES_$_.128
+_OBJC_SELECTOR_REFERENCES_.130
+_OBJC_SELECTOR_REFERENCES_.132
+_OBJC_SELECTOR_REFERENCES_.138
+_OBJC_SELECTOR_REFERENCES_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_CLASSLIST_REFERENCES_$_.154
+_OBJC_SELECTOR_REFERENCES_.156
+_OBJC_CLASSLIST_REFERENCES_$_.157
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_SELECTOR_REFERENCES_.163
+_OBJC_IVAR_$_PluginListViewController._pluginModules
+_OBJC_CLASSLIST_REFERENCES_$_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_CLASSLIST_REFERENCES_$_.167
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_IVAR_$_PluginListViewController._containerViews
+_OBJC_IVAR_$_PluginListViewController._pluginList
+__OBJC_METACLASS_RO_$_PluginListViewController
+__OBJC_$_INSTANCE_METHODS_PluginListViewController
+__OBJC_$_INSTANCE_VARIABLES_PluginListViewController
+__OBJC_$_PROP_LIST_PluginListViewController
+__OBJC_CLASS_RO_$_PluginListViewController
+/Users/distiller/project/Core/SnapShotDebuggingWindow/PluginListViewController.m
+Core/SnapShotDebuggingWindow/PluginListViewController.m
+Core/SnapShotDebuggingWindow/PluginListViewController.h
+-[HYPSnapshotViewController initWithDebuggingWindow:attachedWindow:]
+-[HYPSnapshotViewController viewDidLoad]
+-[HYPSnapshotViewController setup]
+-[HYPSnapshotViewController setupGestureRecognizers:]
+-[HYPSnapshotViewController scrollViewDidScroll:]
+-[HYPSnapshotViewController scrollViewDidZoom:]
+-[HYPSnapshotViewController initializePlugins]
+-[HYPSnapshotViewController viewForZoomingInScrollView:]
+-[HYPSnapshotViewController takeSnapshot]
+-[HYPSnapshotViewController togglePluginDrawer]
+-[HYPSnapshotViewController activate]
+___37-[HYPSnapshotViewController activate]_block_invoke
+___copy_helper_block_e4_20s
+___destroy_helper_block_e4_20s
+-[HYPSnapshotViewController deactivate]
+___39-[HYPSnapshotViewController deactivate]_block_invoke
+___39-[HYPSnapshotViewController deactivate]_block_invoke.172
+-[HYPSnapshotViewController supportedInterfaceOrientations]
+-[HYPSnapshotViewController shouldAutorotate]
+-[HYPSnapshotViewController gestureRecognizer:shouldRecognizeSimultaneouslyWithGestureRecognizer:]
+-[HYPSnapshotViewController overlayModuleChanged:]
+-[HYPSnapshotViewController presentViewListPopoverForPoint:delegate:]
+-[HYPSnapshotViewController presentPopover:recommendedHeight:forView:]
+-[HYPSnapshotViewController presentPopover:recommendedHeight:atPosition:]
+-[HYPSnapshotViewController presentPopover:recommendedHeight:atPosition:recommendedArrowPosition:]
+-[HYPSnapshotViewController placePopover:atPoint:]
+-[HYPSnapshotViewController dismissCurrentPopover]
+-[HYPSnapshotViewController popoverRequestedDismissal]
+-[HYPSnapshotViewController snapshotContainer]
+-[HYPSnapshotViewController updatePopOverFrame:]
+-[HYPSnapshotViewController viewWillTransitionToSize:withTransitionCoordinator:]
+___80-[HYPSnapshotViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+___80-[HYPSnapshotViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke.246
+-[HYPSnapshotViewController presentViewController:animated:]
+-[HYPSnapshotViewController snapshotAdjustedSize]
+-[HYPSnapshotViewController popover:shouldGoAboveAnchorWithContainerSize:]
+-[HYPSnapshotViewController overlayModule]
+-[HYPSnapshotViewController setOverlayModule:]
+-[HYPSnapshotViewController menuContainer]
+-[HYPSnapshotViewController setMenuContainer:]
+-[HYPSnapshotViewController panGesture]
+-[HYPSnapshotViewController setPanGesture:]
+-[HYPSnapshotViewController twoFingerTapRecognizer]
+-[HYPSnapshotViewController setTwoFingerTapRecognizer:]
+-[HYPSnapshotViewController threeFingerTapRecognizer]
+-[HYPSnapshotViewController setThreeFingerTapRecognizer:]
+-[HYPSnapshotViewController edgeSwipeRecognizer]
+-[HYPSnapshotViewController setEdgeSwipeRecognizer:]
+-[HYPSnapshotViewController scrollView]
+-[HYPSnapshotViewController setScrollView:]
+-[HYPSnapshotViewController scrollViewContainer]
+-[HYPSnapshotViewController setScrollViewContainer:]
+-[HYPSnapshotViewController currentSnapshotView]
+-[HYPSnapshotViewController setCurrentSnapshotView:]
+-[HYPSnapshotViewController pluginExtension]
+-[HYPSnapshotViewController setPluginExtension:]
+-[HYPSnapshotViewController pluginModules]
+-[HYPSnapshotViewController setPluginModules:]
+-[HYPSnapshotViewController pluginListViewController]
+-[HYPSnapshotViewController setPluginListViewController:]
+-[HYPSnapshotViewController snapshotDebuggingWindow]
+-[HYPSnapshotViewController setSnapshotDebuggingWindow:]
+-[HYPSnapshotViewController deactivateDrawerPanGesture]
+-[HYPSnapshotViewController setDeactivateDrawerPanGesture:]
+-[HYPSnapshotViewController dismissDrawerTapGesture]
+-[HYPSnapshotViewController setDismissDrawerTapGesture:]
+-[HYPSnapshotViewController drawerActive]
+-[HYPSnapshotViewController setDrawerActive:]
+-[HYPSnapshotViewController attachedWindow]
+-[HYPSnapshotViewController setAttachedWindow:]
+-[HYPSnapshotViewController snapshotContainerView]
+-[HYPSnapshotViewController setSnapshotContainerView:]
+-[HYPSnapshotViewController contextMenu]
+-[HYPSnapshotViewController setContextMenu:]
+-[HYPSnapshotViewController contextMenuPosition]
+-[HYPSnapshotViewController setContextMenuPosition:]
+-[HYPSnapshotViewController .cxx_destruct]
+_OBJC_IVAR_$_HYPSnapshotViewController._snapshotDebuggingWindow
+_OBJC_IVAR_$_HYPSnapshotViewController._attachedWindow
+_OBJC_IVAR_$_HYPSnapshotViewController._dismissDrawerTapGesture
+_OBJC_CLASSLIST_REFERENCES_$_.13
+_OBJC_CLASSLIST_REFERENCES_$_.18
+_OBJC_CLASSLIST_REFERENCES_$_.21
+_OBJC_CLASSLIST_REFERENCES_$_.44
+_OBJC_CLASSLIST_REFERENCES_$_.49
+_OBJC_SELECTOR_REFERENCES_.55
+_OBJC_SELECTOR_REFERENCES_.57
+_OBJC_SELECTOR_REFERENCES_.59
+_OBJC_SELECTOR_REFERENCES_.65
+_OBJC_SELECTOR_REFERENCES_.67
+_OBJC_SELECTOR_REFERENCES_.69
+_OBJC_SELECTOR_REFERENCES_.71
+_OBJC_SELECTOR_REFERENCES_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_CLASSLIST_REFERENCES_$_.108
+_OBJC_SELECTOR_REFERENCES_.114
+_OBJC_SELECTOR_REFERENCES_.116
+_OBJC_SELECTOR_REFERENCES_.118
+_OBJC_SELECTOR_REFERENCES_.120
+_OBJC_SELECTOR_REFERENCES_.122
+_OBJC_SELECTOR_REFERENCES_.124
+_OBJC_CLASSLIST_REFERENCES_$_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_SELECTOR_REFERENCES_.141
+_OBJC_SELECTOR_REFERENCES_.143
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.165
+_OBJC_SELECTOR_REFERENCES_.167
+_OBJC_SELECTOR_REFERENCES_.169
+___block_descriptor_152_e4_20s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.171
+___block_descriptor_24_e4_20s_e5_v4?0l
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_SELECTOR_REFERENCES_.178
+___block_descriptor_24_e4_20s_e7_v8?0c4l
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_SELECTOR_REFERENCES_.187
+_OBJC_SELECTOR_REFERENCES_.189
+_OBJC_SELECTOR_REFERENCES_.191
+_OBJC_CLASSLIST_REFERENCES_$_.192
+_OBJC_CLASSLIST_REFERENCES_$_.193
+_OBJC_SELECTOR_REFERENCES_.195
+_OBJC_SELECTOR_REFERENCES_.197
+_OBJC_SELECTOR_REFERENCES_.199
+_OBJC_SELECTOR_REFERENCES_.201
+_OBJC_SELECTOR_REFERENCES_.203
+_OBJC_SELECTOR_REFERENCES_.205
+_OBJC_SELECTOR_REFERENCES_.207
+_OBJC_SELECTOR_REFERENCES_.209
+_OBJC_SELECTOR_REFERENCES_.211
+_OBJC_SELECTOR_REFERENCES_.213
+_OBJC_CLASSLIST_REFERENCES_$_.214
+_OBJC_SELECTOR_REFERENCES_.216
+_OBJC_SELECTOR_REFERENCES_.218
+_OBJC_SELECTOR_REFERENCES_.220
+_OBJC_SELECTOR_REFERENCES_.222
+_OBJC_SELECTOR_REFERENCES_.224
+_OBJC_SELECTOR_REFERENCES_.226
+_OBJC_SELECTOR_REFERENCES_.228
+_OBJC_SELECTOR_REFERENCES_.230
+_OBJC_SELECTOR_REFERENCES_.232
+_OBJC_SELECTOR_REFERENCES_.234
+_OBJC_SELECTOR_REFERENCES_.236
+_OBJC_SELECTOR_REFERENCES_.238
+_OBJC_SELECTOR_REFERENCES_.240
+_OBJC_SELECTOR_REFERENCES_.242
+_OBJC_SELECTOR_REFERENCES_.244
+___block_descriptor_32_e4_20s_e55_v8?0"<UIViewControllerTransitionCoordinatorContext>"4l
+_OBJC_SELECTOR_REFERENCES_.248
+_OBJC_SELECTOR_REFERENCES_.250
+_OBJC_SELECTOR_REFERENCES_.252
+_OBJC_IVAR_$_HYPSnapshotViewController.overlayModule
+_OBJC_IVAR_$_HYPSnapshotViewController._menuContainer
+_OBJC_IVAR_$_HYPSnapshotViewController._panGesture
+_OBJC_IVAR_$_HYPSnapshotViewController._twoFingerTapRecognizer
+_OBJC_IVAR_$_HYPSnapshotViewController._threeFingerTapRecognizer
+_OBJC_IVAR_$_HYPSnapshotViewController._edgeSwipeRecognizer
+_OBJC_IVAR_$_HYPSnapshotViewController._scrollView
+_OBJC_IVAR_$_HYPSnapshotViewController._scrollViewContainer
+_OBJC_IVAR_$_HYPSnapshotViewController._currentSnapshotView
+_OBJC_IVAR_$_HYPSnapshotViewController._pluginExtension
+_OBJC_IVAR_$_HYPSnapshotViewController._pluginModules
+_OBJC_IVAR_$_HYPSnapshotViewController._pluginListViewController
+_OBJC_IVAR_$_HYPSnapshotViewController._deactivateDrawerPanGesture
+_OBJC_IVAR_$_HYPSnapshotViewController._drawerActive
+_OBJC_IVAR_$_HYPSnapshotViewController._snapshotContainerView
+_OBJC_IVAR_$_HYPSnapshotViewController._contextMenu
+_OBJC_IVAR_$_HYPSnapshotViewController._contextMenuPosition
+__OBJC_$_PROTOCOL_REFS_UINavigationControllerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UINavigationControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UINavigationControllerDelegate
+__OBJC_PROTOCOL_$_UINavigationControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_UINavigationControllerDelegate
+__OBJC_$_PROTOCOL_REFS_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_UIScrollViewDelegate
+__OBJC_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_LABEL_PROTOCOL_$_UIScrollViewDelegate
+__OBJC_$_PROTOCOL_REFS_HYPSnapshotContainer
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPSnapshotContainer
+__OBJC_$_PROP_LIST_HYPSnapshotContainer
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPSnapshotContainer
+__OBJC_PROTOCOL_$_HYPSnapshotContainer
+__OBJC_LABEL_PROTOCOL_$_HYPSnapshotContainer
+__OBJC_$_PROTOCOL_REFS_HYPSnapshotContainerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPSnapshotContainerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPSnapshotContainerDelegate
+__OBJC_PROTOCOL_$_HYPSnapshotContainerDelegate
+__OBJC_LABEL_PROTOCOL_$_HYPSnapshotContainerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPPopoverViewControllerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPopoverViewControllerDelegate
+__OBJC_PROTOCOL_$_HYPPopoverViewControllerDelegate
+__OBJC_LABEL_PROTOCOL_$_HYPPopoverViewControllerDelegate
+__OBJC_CLASS_PROTOCOLS_$_HYPSnapshotViewController
+__OBJC_METACLASS_RO_$_HYPSnapshotViewController
+__OBJC_$_INSTANCE_METHODS_HYPSnapshotViewController
+__OBJC_$_INSTANCE_VARIABLES_HYPSnapshotViewController
+__OBJC_$_PROP_LIST_HYPSnapshotViewController
+__OBJC_CLASS_RO_$_HYPSnapshotViewController
+/Users/distiller/project/Core/SnapShotDebuggingWindow/HYPSnapshotViewController.m
+Core/SnapShotDebuggingWindow/HYPSnapshotViewController.m
+Core/SnapShotDebuggingWindow/HYPSnapshotViewController.h
+CGSizeMake
+/Applications/Xcode-12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+__80-[HYPSnapshotViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke.246
+__80-[HYPSnapshotViewController viewWillTransitionToSize:withTransitionCoordinator:]_block_invoke
+CGRectMake
+__39-[HYPSnapshotViewController deactivate]_block_invoke.172
+__39-[HYPSnapshotViewController deactivate]_block_invoke
+__destroy_helper_block_e4_20s
+__copy_helper_block_e4_20s
+__37-[HYPSnapshotViewController activate]_block_invoke
+-[HYPPluginModule initWithExtension:]
+-[HYPPluginModule pluginMenuItem]
+-[HYPPluginModule pluginMenuItemTitle]
+-[HYPPluginModule pluginMenuItemImage]
+-[HYPPluginModule shouldHideDrawerOnSelection]
+-[HYPPluginModule pluginMenuItemSelected:]
+-[HYPPluginModule extension]
+-[HYPPluginModule active]
+-[HYPPluginModule .cxx_destruct]
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPPluginMenuItemDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPluginMenuItemDelegate
+__OBJC_PROTOCOL_$_HYPPluginMenuItemDelegate
+__OBJC_LABEL_PROTOCOL_$_HYPPluginMenuItemDelegate
+__OBJC_$_PROTOCOL_REFS_HYPPluginModule
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPPluginModule
+__OBJC_$_PROP_LIST_HYPPluginModule
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPluginModule
+__OBJC_PROTOCOL_$_HYPPluginModule
+__OBJC_LABEL_PROTOCOL_$_HYPPluginModule
+__OBJC_CLASS_PROTOCOLS_$_HYPPluginModule
+__OBJC_METACLASS_RO_$_HYPPluginModule
+__OBJC_$_INSTANCE_METHODS_HYPPluginModule
+_OBJC_IVAR_$_HYPPluginModule._active
+_OBJC_IVAR_$_HYPPluginModule._pluginMenuItem
+_OBJC_IVAR_$_HYPPluginModule._extension
+__OBJC_$_INSTANCE_VARIABLES_HYPPluginModule
+__OBJC_$_PROP_LIST_HYPPluginModule.81
+__OBJC_CLASS_RO_$_HYPPluginModule
+/Users/distiller/project/Core/Public/Plugin/HYPPluginModule.m
+Core/Public/Plugin/HYPPluginModule.m
+-[HYPListenerContainer initWithListener:]
+-[HYPListenerContainer listener]
+-[HYPListenerContainer setListener:]
+-[HYPListenerContainer .cxx_destruct]
+__OBJC_METACLASS_RO_$_HYPListenerContainer
+__OBJC_$_INSTANCE_METHODS_HYPListenerContainer
+_OBJC_IVAR_$_HYPListenerContainer._listener
+__OBJC_$_INSTANCE_VARIABLES_HYPListenerContainer
+__OBJC_$_PROP_LIST_HYPListenerContainer
+__OBJC_CLASS_RO_$_HYPListenerContainer
+/Users/distiller/project/Core/HYPListenerContainer.m
+Core/HYPListenerContainer.m
+Core/HYPListenerContainer.h
++[HyperionWindowManager sharedInstance]
+___39+[HyperionWindowManager sharedInstance]_block_invoke
+-[HyperionWindowManager attachOverlayDebuggingWindowToWindow:]
+-[HyperionWindowManager attachSnapshotDebuggingWindowToWindow:]
+-[HyperionWindowManager togglePluginDrawer]
+-[HyperionWindowManager currentSnapshotWindow]
+-[HyperionWindowManager currentOverlayWindow]
+-[HyperionWindowManager decideNewKeyWindow]
+-[HyperionWindowManager overlayWindow]
+-[HyperionWindowManager setOverlayWindow:]
+-[HyperionWindowManager snapshotWindow]
+-[HyperionWindowManager setSnapshotWindow:]
+-[HyperionWindowManager currentAttachedWindow]
+-[HyperionWindowManager setCurrentAttachedWindow:]
+-[HyperionWindowManager .cxx_destruct]
+___clang_at_available_requires_core_foundation_framework
+_sharedInstance.once
+___block_descriptor_20_e5_v4?0l
+___block_literal_global
+_sharedWindowManager
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+__OBJC_$_CLASS_METHODS_HyperionWindowManager
+__OBJC_METACLASS_RO_$_HyperionWindowManager
+__OBJC_$_INSTANCE_METHODS_HyperionWindowManager
+_OBJC_IVAR_$_HyperionWindowManager._overlayWindow
+_OBJC_IVAR_$_HyperionWindowManager._snapshotWindow
+_OBJC_IVAR_$_HyperionWindowManager._currentAttachedWindow
+__OBJC_$_INSTANCE_VARIABLES_HyperionWindowManager
+__OBJC_$_PROP_LIST_HyperionWindowManager
+__OBJC_CLASS_RO_$_HyperionWindowManager
+/Users/distiller/project/Core/HyperionWindowManager.m
+Core/HyperionWindowManager.m
+__39+[HyperionWindowManager sharedInstance]_block_invoke
+-[HYPSnapshotPluginModule pluginMenuItemSelected:]
+-[HYPSnapshotPluginModule active]
+-[HYPSnapshotPluginModule activateSnapshotPluginViewWithContext:]
+-[HYPSnapshotPluginModule deactivateSnapshotPluginView]
+-[HYPSnapshotPluginModule snapshotContextWillTransitionToSize:withTransitionCoordinator:]
+-[HYPSnapshotPluginModule snapshotContextDidTransitionToSize:]
+-[HYPSnapshotPluginModule snapshotPluginView]
+-[HYPSnapshotPluginModule .cxx_destruct]
+_OBJC_IVAR_$_HYPSnapshotPluginModule._snapshotPluginView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPSnapshotPluginViewProvider
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_HYPSnapshotPluginViewProvider
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPSnapshotPluginViewProvider
+__OBJC_PROTOCOL_$_HYPSnapshotPluginViewProvider
+__OBJC_LABEL_PROTOCOL_$_HYPSnapshotPluginViewProvider
+__OBJC_CLASS_PROTOCOLS_$_HYPSnapshotPluginModule
+__OBJC_METACLASS_RO_$_HYPSnapshotPluginModule
+__OBJC_$_INSTANCE_METHODS_HYPSnapshotPluginModule
+__OBJC_$_INSTANCE_VARIABLES_HYPSnapshotPluginModule
+__OBJC_$_PROP_LIST_HYPSnapshotPluginModule
+__OBJC_CLASS_RO_$_HYPSnapshotPluginModule
+/Users/distiller/project/Core/Public/Plugin/SnapShotPlugin/HYPSnapshotPluginModule.m
+Core/Public/Plugin/SnapShotPlugin/HYPSnapshotPluginModule.m
+-[HYPOverlayPluginModule pluginMenuItemSelected:]
+-[HYPOverlayPluginModule active]
+-[HYPOverlayPluginModule shouldHideDrawerOnSelection]
+-[HYPOverlayPluginModule activateOverlayPluginViewWithContext:]
+-[HYPOverlayPluginModule deactivateOverlayPluginView]
+-[HYPOverlayPluginModule pluginMenuItem]
+-[HYPOverlayPluginModule overlayPluginView]
+-[HYPOverlayPluginModule .cxx_destruct]
+_OBJC_IVAR_$_HYPOverlayPluginModule._pluginMenuItem
+_OBJC_IVAR_$_HYPOverlayPluginModule._overlayPluginView
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPOverlayPluginViewProvider
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPOverlayPluginViewProvider
+__OBJC_PROTOCOL_$_HYPOverlayPluginViewProvider
+__OBJC_LABEL_PROTOCOL_$_HYPOverlayPluginViewProvider
+__OBJC_CLASS_PROTOCOLS_$_HYPOverlayPluginModule
+__OBJC_METACLASS_RO_$_HYPOverlayPluginModule
+__OBJC_$_INSTANCE_METHODS_HYPOverlayPluginModule
+__OBJC_$_INSTANCE_VARIABLES_HYPOverlayPluginModule
+__OBJC_$_PROP_LIST_HYPOverlayPluginModule
+__OBJC_CLASS_RO_$_HYPOverlayPluginModule
+/Users/distiller/project/Core/Public/Plugin/OverlayPlugin/HYPOverlayPluginModule.m
+Core/Public/Plugin/OverlayPlugin/HYPOverlayPluginModule.m
+Core/Public/Plugin/OverlayPlugin/HYPOverlayPluginModule.h
+-[HYPSnapshotContainer setOverlayModule:]
+-[HYPSnapshotContainer presentPopover:recommendedHeight:atPosition:]
+-[HYPSnapshotContainer presentViewListPopoverForPoint:delegate:]
+-[HYPSnapshotContainer presentPopover:recommendedHeight:forView:]
+-[HYPSnapshotContainer dismissCurrentPopover]
+-[HYPSnapshotContainer setSnapshotView:]
+-[HYPSnapshotContainer presentViewController:animated:]
+-[HYPSnapshotContainer overlayModule]
+-[HYPSnapshotContainer delegate]
+-[HYPSnapshotContainer setDelegate:]
+-[HYPSnapshotContainer snapshotView]
+-[HYPSnapshotContainer currentOverlay]
+-[HYPSnapshotContainer setCurrentOverlay:]
+-[HYPSnapshotContainer listeners]
+-[HYPSnapshotContainer setListeners:]
+-[HYPSnapshotContainer currentPluginContainer]
+-[HYPSnapshotContainer setCurrentPluginContainer:]
+-[HYPSnapshotContainer .cxx_destruct]
+_OBJC_IVAR_$_HYPSnapshotContainer._overlayModule
+_OBJC_IVAR_$_HYPSnapshotContainer._currentPluginContainer
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_IVAR_$_HYPSnapshotContainer._snapshotView
+_OBJC_IVAR_$_HYPSnapshotContainer._currentOverlay
+_OBJC_IVAR_$_HYPSnapshotContainer._delegate
+_OBJC_IVAR_$_HYPSnapshotContainer._listeners
+__OBJC_CLASS_PROTOCOLS_$_HYPSnapshotContainer
+__OBJC_METACLASS_RO_$_HYPSnapshotContainer
+__OBJC_$_INSTANCE_METHODS_HYPSnapshotContainer
+__OBJC_$_INSTANCE_VARIABLES_HYPSnapshotContainer
+__OBJC_$_PROP_LIST_HYPSnapshotContainer.137
+__OBJC_CLASS_RO_$_HYPSnapshotContainer
+/Users/distiller/project/Core/SnapShotDebuggingWindow/HYPSnapshotContainer.m
+Core/SnapShotDebuggingWindow/HYPSnapshotContainer.m
+Core/SnapShotDebuggingWindow/HYPSnapshotContainer.h
++[HyperionManager sharedInstance]
+___33+[HyperionManager sharedInstance]_block_invoke
+-[HyperionManager loadSettings]
+-[HyperionManager changeSettingsForConfiguration:]
+-[HyperionManager attachToWindow:]
+-[HyperionManager setActivationGesture:]
+-[HyperionManager retrievePluginClasses]
+-[HyperionManager retrievePluginModules]
+-[HyperionManager forceRefreshPluginModules]
+___44-[HyperionManager forceRefreshPluginModules]_block_invoke
+-[HyperionManager togglePluginDrawer]
+-[HyperionManager configurationPath]
+-[HyperionManager activationGestures]
+-[HyperionManager pluginModules]
+-[HyperionManager setPluginModules:]
+-[HyperionManager key]
+-[HyperionManager setKey:]
+-[HyperionManager .cxx_destruct]
+_sharedManager
+_OBJC_CLASSLIST_REFERENCES_$_.25
+_OBJC_CLASSLIST_REFERENCES_$_.46
+__OBJC_$_PROTOCOL_REFS_HYPPlugin
+__OBJC_$_PROTOCOL_CLASS_METHODS_HYPPlugin
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_HYPPlugin
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPlugin
+__OBJC_PROTOCOL_$_HYPPlugin
+__OBJC_LABEL_PROTOCOL_$_HYPPlugin
+__OBJC_PROTOCOL_REFERENCE_$_HYPPlugin
+_OBJC_CLASSLIST_REFERENCES_$_.98
+_OBJC_SELECTOR_REFERENCES_.100
+_OBJC_SELECTOR_REFERENCES_.102
+_OBJC_SELECTOR_REFERENCES_.104
+_OBJC_SELECTOR_REFERENCES_.108
+___block_descriptor_20_e10_i12?048l
+___block_literal_global.110
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+__OBJC_$_CLASS_METHODS_HyperionManager
+__OBJC_METACLASS_RO_$_HyperionManager
+__OBJC_$_INSTANCE_METHODS_HyperionManager
+_OBJC_IVAR_$_HyperionManager._activationGestures
+_OBJC_IVAR_$_HyperionManager._pluginModules
+_OBJC_IVAR_$_HyperionManager._key
+__OBJC_$_INSTANCE_VARIABLES_HyperionManager
+__OBJC_$_PROP_LIST_HyperionManager
+__OBJC_CLASS_RO_$_HyperionManager
+/Users/distiller/project/Core/Public/HyperionManager.m
+Core/Public/HyperionManager.m
+__44-[HyperionManager forceRefreshPluginModules]_block_invoke
+__33+[HyperionManager sharedInstance]_block_invoke
+-[HYPPopoverViewController initWithViewController:]
+-[HYPPopoverViewController viewDidLoad]
+-[HYPPopoverViewController setArrowPosition:offset:]
+-[HYPPopoverViewController closeButtonPressed]
+-[HYPPopoverViewController containerView]
+-[HYPPopoverViewController setContainerView:]
+-[HYPPopoverViewController viewController]
+-[HYPPopoverViewController setViewController:]
+-[HYPPopoverViewController anchorPoint]
+-[HYPPopoverViewController setAnchorPoint:]
+-[HYPPopoverViewController topAnchor]
+-[HYPPopoverViewController setTopAnchor:]
+-[HYPPopoverViewController bottomAnchor]
+-[HYPPopoverViewController setBottomAnchor:]
+-[HYPPopoverViewController shapeLayer]
+-[HYPPopoverViewController setShapeLayer:]
+-[HYPPopoverViewController arrowPosition]
+-[HYPPopoverViewController setArrowPosition:]
+-[HYPPopoverViewController closeButton]
+-[HYPPopoverViewController setCloseButton:]
+-[HYPPopoverViewController delegate]
+-[HYPPopoverViewController setDelegate:]
+-[HYPPopoverViewController .cxx_destruct]
+_OBJC_IVAR_$_HYPPopoverViewController._viewController
+_OBJC_IVAR_$_HYPPopoverViewController._arrowPosition
+_OBJC_IVAR_$_HYPPopoverViewController._closeButton
+_OBJC_CLASSLIST_REFERENCES_$_.4
+_OBJC_CLASSLIST_REFERENCES_$_.27
+_OBJC_CLASSLIST_REFERENCES_$_.34
+_OBJC_SELECTOR_REFERENCES_.90
+_OBJC_SELECTOR_REFERENCES_.92
+_OBJC_CLASSLIST_REFERENCES_$_.93
+_OBJC_CLASSLIST_REFERENCES_$_.102
+_OBJC_SELECTOR_REFERENCES_.128
+_OBJC_IVAR_$_HYPPopoverViewController._containerView
+_OBJC_IVAR_$_HYPPopoverViewController._anchorPoint
+_OBJC_IVAR_$_HYPPopoverViewController._topAnchor
+_OBJC_IVAR_$_HYPPopoverViewController._bottomAnchor
+_OBJC_IVAR_$_HYPPopoverViewController._shapeLayer
+_OBJC_IVAR_$_HYPPopoverViewController._delegate
+__OBJC_METACLASS_RO_$_HYPPopoverViewController
+__OBJC_$_INSTANCE_METHODS_HYPPopoverViewController
+__OBJC_$_INSTANCE_VARIABLES_HYPPopoverViewController
+__OBJC_$_PROP_LIST_HYPPopoverViewController
+__OBJC_CLASS_RO_$_HYPPopoverViewController
+/Users/distiller/project/Core/SnapShotDebuggingWindow/HYPPopoverViewController.m
+Core/SnapShotDebuggingWindow/HYPPopoverViewController.m
+Core/SnapShotDebuggingWindow/HYPPopoverViewController.h
+CGPointMake
+-[HYPSnapshotInteractionView initWithExtension:]
+-[HYPSnapshotInteractionView interactionViewWillTransitionToSize:withTransitionCoordinator:]
+-[HYPSnapshotInteractionView interactionViewDidTransitionToSize:]
+-[HYPSnapshotInteractionView extension]
+-[HYPSnapshotInteractionView .cxx_destruct]
+_OBJC_IVAR_$_HYPSnapshotInteractionView._extension
+__OBJC_METACLASS_RO_$_HYPSnapshotInteractionView
+__OBJC_$_INSTANCE_METHODS_HYPSnapshotInteractionView
+__OBJC_$_INSTANCE_VARIABLES_HYPSnapshotInteractionView
+__OBJC_$_PROP_LIST_HYPSnapshotInteractionView
+__OBJC_CLASS_RO_$_HYPSnapshotInteractionView
+/Users/distiller/project/Core/Public/Plugin/SnapShotPlugin/HYPSnapshotInteractionView.m
+Core/Public/Plugin/SnapShotPlugin/HYPSnapshotInteractionView.m
+Core/Public/Plugin/SnapShotPlugin/HYPSnapshotInteractionView.h
+__OBJC_METACLASS_RO_$_HYPConfigurationConstants
+__OBJC_CLASS_RO_$_HYPConfigurationConstants
+/Users/distiller/project/Core/OverlayDebuggingWindow/HYPConfigurationConstants.m
++[HYPOverlayDebuggingWindow sharedInstance]
+___43+[HYPOverlayDebuggingWindow sharedInstance]_block_invoke
+-[HYPOverlayDebuggingWindow initWithFrame:]
+-[HYPOverlayDebuggingWindow init]
+-[HYPOverlayDebuggingWindow hitTest:withEvent:]
+-[HYPOverlayDebuggingWindow setup]
+-[HYPOverlayDebuggingWindow overlayModuleChanged:]
+-[HYPOverlayDebuggingWindow makeKeyWindow]
+-[HYPOverlayDebuggingWindow overlayModule]
+-[HYPOverlayDebuggingWindow setOverlayModule:]
+-[HYPOverlayDebuggingWindow overlayContainer]
+-[HYPOverlayDebuggingWindow setOverlayContainer:]
+-[HYPOverlayDebuggingWindow .cxx_destruct]
+_debuggingWindow
+_OBJC_CLASSLIST_REFERENCES_$_.26
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_IVAR_$_HYPOverlayDebuggingWindow.overlayModule
+_OBJC_IVAR_$_HYPOverlayDebuggingWindow._overlayContainer
+__OBJC_$_CLASS_METHODS_HYPOverlayDebuggingWindow
+__OBJC_$_PROTOCOL_REFS_HYPOverlayContainerDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPOverlayContainerDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPOverlayContainerDelegate
+__OBJC_PROTOCOL_$_HYPOverlayContainerDelegate
+__OBJC_LABEL_PROTOCOL_$_HYPOverlayContainerDelegate
+__OBJC_CLASS_PROTOCOLS_$_HYPOverlayDebuggingWindow
+__OBJC_METACLASS_RO_$_HYPOverlayDebuggingWindow
+__OBJC_$_INSTANCE_METHODS_HYPOverlayDebuggingWindow
+__OBJC_$_INSTANCE_VARIABLES_HYPOverlayDebuggingWindow
+__OBJC_$_PROP_LIST_HYPOverlayDebuggingWindow
+__OBJC_CLASS_RO_$_HYPOverlayDebuggingWindow
+/Users/distiller/project/Core/OverlayDebuggingWindow/HYPOverlayDebuggingWindow.m
+Core/OverlayDebuggingWindow/HYPOverlayDebuggingWindow.m
+Core/OverlayDebuggingWindow/HYPOverlayDebuggingWindow.h
+__43+[HYPOverlayDebuggingWindow sharedInstance]_block_invoke

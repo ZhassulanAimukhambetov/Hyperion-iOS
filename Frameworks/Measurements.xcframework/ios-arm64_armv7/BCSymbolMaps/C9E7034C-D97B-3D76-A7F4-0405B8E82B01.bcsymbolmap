@@ -1,0 +1,242 @@
+BCSymbolMap Version: 2.0
+Apple clang version 12.0.0 (clang-1200.0.32.29)
+/Applications/Xcode-12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk
+iPhoneOS14.4.sdk
+/Users/distiller/Library/Developer/Xcode/DerivedData/HyperionFramework-dxwclpzxhkqvsqgjsxodylhgcaes/Build/Intermediates.noindex/ArchiveIntermediates/Measurements/IntermediateBuildFilesPath/HyperionCore.build/Release-iphoneos/Measurements.build/DerivedSources/Measurements_vers.c
+/Users/distiller/project/HyperionCore
+-[HYPMeasurementsInteractionView init]
+-[HYPMeasurementsInteractionView initWithExtension:]
+-[HYPMeasurementsInteractionView setup]
+-[HYPMeasurementsInteractionView tapGesture:]
+-[HYPMeasurementsInteractionView viewSelected:]
+-[HYPMeasurementsInteractionView interactionViewWillTransitionToSize:withTransitionCoordinator:]
+-[HYPMeasurementsInteractionView interactionViewDidTransitionToSize:]
+-[HYPMeasurementsInteractionView longPress:]
+-[HYPMeasurementsInteractionView displayMeasurementViewsForView:comparedToView:]
+-[HYPMeasurementsInteractionView addBorderForSelectedView]
+-[HYPMeasurementsInteractionView addBorderForCompareView]
+-[HYPMeasurementsInteractionView getLinesForViewAxis:]
+-[HYPMeasurementsInteractionView clearAllStyling]
+-[HYPMeasurementsInteractionView clearMeasurementViews]
+-[HYPMeasurementsInteractionView clearSelectedStyling]
+-[HYPMeasurementsInteractionView clearCompareStyling]
+-[HYPMeasurementsInteractionView clearStylingsForList:]
+-[HYPMeasurementsInteractionView measurementPathWithStartPoint:endPoint:]
+-[HYPMeasurementsInteractionView placeTopMeasurmentBetweenSelectedView:comparisonView:]
+-[HYPMeasurementsInteractionView placeBottomMeasurmentBetweenSelectedView:comparisonView:]
+-[HYPMeasurementsInteractionView placeLeftMeasurmentBetweenSelectedView:comparisonView:]
+-[HYPMeasurementsInteractionView placeRightMeasurmentBetweenSelectedView:comparisonView:]
+-[HYPMeasurementsInteractionView addMeasureLabelWithValue:centerPoint:]
+-[HYPMeasurementsInteractionView addShapeForPath:]
+-[HYPMeasurementsInteractionView frame:insideFrame:]
+-[HYPMeasurementsInteractionView measurementViews]
+-[HYPMeasurementsInteractionView setMeasurementViews:]
+-[HYPMeasurementsInteractionView selectedView]
+-[HYPMeasurementsInteractionView setSelectedView:]
+-[HYPMeasurementsInteractionView compareView]
+-[HYPMeasurementsInteractionView setCompareView:]
+-[HYPMeasurementsInteractionView selectedViewsStyling]
+-[HYPMeasurementsInteractionView setSelectedViewsStyling:]
+-[HYPMeasurementsInteractionView compareViewStyling]
+-[HYPMeasurementsInteractionView setCompareViewStyling:]
+-[HYPMeasurementsInteractionView primaryColor]
+-[HYPMeasurementsInteractionView setPrimaryColor:]
+-[HYPMeasurementsInteractionView secondaryColor]
+-[HYPMeasurementsInteractionView setSecondaryColor:]
+-[HYPMeasurementsInteractionView .cxx_destruct]
+_OBJC_SELECTOR_REFERENCES_
+_OBJC_SELECTOR_REFERENCES_.2
+_OBJC_SELECTOR_REFERENCES_.4
+_OBJC_CLASSLIST_REFERENCES_$_
+_OBJC_SELECTOR_REFERENCES_.6
+_OBJC_SELECTOR_REFERENCES_.8
+_OBJC_SELECTOR_REFERENCES_.10
+_OBJC_CLASSLIST_REFERENCES_$_.11
+_OBJC_SELECTOR_REFERENCES_.13
+_OBJC_SELECTOR_REFERENCES_.15
+_OBJC_CLASSLIST_REFERENCES_$_.16
+_OBJC_SELECTOR_REFERENCES_.18
+_OBJC_SELECTOR_REFERENCES_.20
+_OBJC_SELECTOR_REFERENCES_.22
+_OBJC_CLASSLIST_REFERENCES_$_.23
+_OBJC_SELECTOR_REFERENCES_.25
+_OBJC_SELECTOR_REFERENCES_.27
+_OBJC_SELECTOR_REFERENCES_.29
+_OBJC_SELECTOR_REFERENCES_.31
+_OBJC_SELECTOR_REFERENCES_.33
+_OBJC_SELECTOR_REFERENCES_.35
+_OBJC_SELECTOR_REFERENCES_.37
+_OBJC_SELECTOR_REFERENCES_.39
+_OBJC_CLASSLIST_REFERENCES_$_.40
+_OBJC_SELECTOR_REFERENCES_.42
+_OBJC_SELECTOR_REFERENCES_.44
+_OBJC_SELECTOR_REFERENCES_.46
+_OBJC_SELECTOR_REFERENCES_.48
+_OBJC_SELECTOR_REFERENCES_.50
+_OBJC_SELECTOR_REFERENCES_.52
+_OBJC_SELECTOR_REFERENCES_.54
+_OBJC_SELECTOR_REFERENCES_.56
+_OBJC_SELECTOR_REFERENCES_.58
+_OBJC_SELECTOR_REFERENCES_.60
+_OBJC_SELECTOR_REFERENCES_.62
+_OBJC_SELECTOR_REFERENCES_.64
+_OBJC_SELECTOR_REFERENCES_.66
+_OBJC_SELECTOR_REFERENCES_.68
+_OBJC_SELECTOR_REFERENCES_.70
+_OBJC_SELECTOR_REFERENCES_.72
+_OBJC_CLASSLIST_REFERENCES_$_.73
+_OBJC_SELECTOR_REFERENCES_.75
+_OBJC_SELECTOR_REFERENCES_.77
+_OBJC_SELECTOR_REFERENCES_.79
+_OBJC_SELECTOR_REFERENCES_.81
+_OBJC_SELECTOR_REFERENCES_.83
+_OBJC_SELECTOR_REFERENCES_.85
+_OBJC_SELECTOR_REFERENCES_.87
+_OBJC_SELECTOR_REFERENCES_.89
+_OBJC_SELECTOR_REFERENCES_.91
+_OBJC_SELECTOR_REFERENCES_.93
+_OBJC_SELECTOR_REFERENCES_.95
+_OBJC_CLASSLIST_REFERENCES_$_.96
+_OBJC_SELECTOR_REFERENCES_.98
+_OBJC_CLASSLIST_REFERENCES_$_.99
+_OBJC_SELECTOR_REFERENCES_.101
+_OBJC_SELECTOR_REFERENCES_.103
+_OBJC_SELECTOR_REFERENCES_.105
+_OBJC_SELECTOR_REFERENCES_.107
+_OBJC_SELECTOR_REFERENCES_.109
+_OBJC_SELECTOR_REFERENCES_.111
+_OBJC_SELECTOR_REFERENCES_.113
+_OBJC_SELECTOR_REFERENCES_.115
+_OBJC_SELECTOR_REFERENCES_.117
+_OBJC_SELECTOR_REFERENCES_.119
+_OBJC_SELECTOR_REFERENCES_.121
+_OBJC_SELECTOR_REFERENCES_.123
+_OBJC_SELECTOR_REFERENCES_.125
+_OBJC_SELECTOR_REFERENCES_.127
+_OBJC_SELECTOR_REFERENCES_.129
+_OBJC_SELECTOR_REFERENCES_.131
+_OBJC_SELECTOR_REFERENCES_.133
+_OBJC_SELECTOR_REFERENCES_.135
+_OBJC_SELECTOR_REFERENCES_.137
+_OBJC_SELECTOR_REFERENCES_.139
+_OBJC_CLASSLIST_REFERENCES_$_.140
+_OBJC_SELECTOR_REFERENCES_.142
+_OBJC_CLASSLIST_REFERENCES_$_.143
+_OBJC_SELECTOR_REFERENCES_.145
+_OBJC_SELECTOR_REFERENCES_.147
+_OBJC_SELECTOR_REFERENCES_.149
+_OBJC_SELECTOR_REFERENCES_.151
+_OBJC_SELECTOR_REFERENCES_.153
+_OBJC_SELECTOR_REFERENCES_.155
+_OBJC_SELECTOR_REFERENCES_.157
+_OBJC_SELECTOR_REFERENCES_.159
+_OBJC_SELECTOR_REFERENCES_.161
+_OBJC_CLASSLIST_REFERENCES_$_.162
+_OBJC_SELECTOR_REFERENCES_.164
+_OBJC_SELECTOR_REFERENCES_.166
+_OBJC_SELECTOR_REFERENCES_.168
+_OBJC_SELECTOR_REFERENCES_.170
+_OBJC_SELECTOR_REFERENCES_.172
+_OBJC_SELECTOR_REFERENCES_.174
+_OBJC_SELECTOR_REFERENCES_.176
+_OBJC_CLASSLIST_REFERENCES_$_.177
+_OBJC_SELECTOR_REFERENCES_.179
+_OBJC_SELECTOR_REFERENCES_.181
+_OBJC_SELECTOR_REFERENCES_.183
+_OBJC_SELECTOR_REFERENCES_.185
+_OBJC_CLASSLIST_REFERENCES_$_.186
+_OBJC_SELECTOR_REFERENCES_.188
+_OBJC_SELECTOR_REFERENCES_.190
+_OBJC_SELECTOR_REFERENCES_.192
+_OBJC_SELECTOR_REFERENCES_.194
+_OBJC_SELECTOR_REFERENCES_.196
+_OBJC_SELECTOR_REFERENCES_.198
+_OBJC_SELECTOR_REFERENCES_.200
+_OBJC_SELECTOR_REFERENCES_.202
+_OBJC_SELECTOR_REFERENCES_.204
+_OBJC_SELECTOR_REFERENCES_.206
+_OBJC_SELECTOR_REFERENCES_.208
+_OBJC_SELECTOR_REFERENCES_.210
+_OBJC_SELECTOR_REFERENCES_.212
+_OBJC_SELECTOR_REFERENCES_.214
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._measurementViews
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._selectedView
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._compareView
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._selectedViewsStyling
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._compareViewStyling
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._primaryColor
+_OBJC_IVAR_$_HYPMeasurementsInteractionView._secondaryColor
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+__OBJC_$_PROP_LIST_NSObject
+__OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+__OBJC_PROTOCOL_$_NSObject
+__OBJC_LABEL_PROTOCOL_$_NSObject
+__OBJC_$_PROTOCOL_REFS_HYPViewSelectionDelegate
+__OBJC_$_PROTOCOL_INSTANCE_METHODS_HYPViewSelectionDelegate
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPViewSelectionDelegate
+__OBJC_PROTOCOL_$_HYPViewSelectionDelegate
+__OBJC_LABEL_PROTOCOL_$_HYPViewSelectionDelegate
+__OBJC_CLASS_PROTOCOLS_$_HYPMeasurementsInteractionView
+__OBJC_METACLASS_RO_$_HYPMeasurementsInteractionView
+__OBJC_$_INSTANCE_METHODS_HYPMeasurementsInteractionView
+__OBJC_$_INSTANCE_VARIABLES_HYPMeasurementsInteractionView
+__OBJC_$_PROP_LIST_HYPMeasurementsInteractionView
+__OBJC_CLASS_RO_$_HYPMeasurementsInteractionView
+/Users/distiller/project/Measurements/HYPMeasurementsInteractionView.m
+Measurements/HYPMeasurementsInteractionView.m
+/Users/distiller/project
+CGPointMake
+/Applications/Xcode-12.4.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+-[HYPMeasurementsPluginModule initWithExtension:]
+-[HYPMeasurementsPluginModule pluginMenuItemTitle]
+-[HYPMeasurementsPluginModule pluginMenuItemImage]
+-[HYPMeasurementsPluginModule activateSnapshotPluginViewWithContext:]
+-[HYPMeasurementsPluginModule snapshotContextWillTransitionToSize:withTransitionCoordinator:]
+-[HYPMeasurementsPluginModule snapshotContextDidTransitionToSize:]
+-[HYPMeasurementsPluginModule deactivateSnapshotPluginView]
+-[HYPMeasurementsPluginModule snapshotPluginView]
+-[HYPMeasurementsPluginModule currentMeasurementsView]
+-[HYPMeasurementsPluginModule setCurrentMeasurementsView:]
+-[HYPMeasurementsPluginModule .cxx_destruct]
+_OBJC_CLASSLIST_REFERENCES_$_.1
+_OBJC_SELECTOR_REFERENCES_.3
+_OBJC_SELECTOR_REFERENCES_.5
+_OBJC_SELECTOR_REFERENCES_.11
+_OBJC_SELECTOR_REFERENCES_.17
+_OBJC_SELECTOR_REFERENCES_.19
+_OBJC_CLASSLIST_REFERENCES_$_.20
+_OBJC_SELECTOR_REFERENCES_.24
+_OBJC_SELECTOR_REFERENCES_.26
+_OBJC_IVAR_$_HYPMeasurementsPluginModule._snapshotPluginView
+_OBJC_SELECTOR_REFERENCES_.28
+_OBJC_SELECTOR_REFERENCES_.30
+_OBJC_SELECTOR_REFERENCES_.32
+_OBJC_SELECTOR_REFERENCES_.34
+_OBJC_SELECTOR_REFERENCES_.36
+_OBJC_SELECTOR_REFERENCES_.38
+_OBJC_SELECTOR_REFERENCES_.40
+_OBJC_IVAR_$_HYPMeasurementsPluginModule._currentMeasurementsView
+__OBJC_METACLASS_RO_$_HYPMeasurementsPluginModule
+__OBJC_$_INSTANCE_METHODS_HYPMeasurementsPluginModule
+__OBJC_$_INSTANCE_VARIABLES_HYPMeasurementsPluginModule
+__OBJC_$_PROP_LIST_HYPMeasurementsPluginModule
+__OBJC_CLASS_RO_$_HYPMeasurementsPluginModule
+/Users/distiller/project/Measurements/HYPMeasurementsPluginModule.m
+Measurements/HYPMeasurementsPluginModule.m
++[HYPMeasurementsPlugin createPluginModule:]
++[HYPMeasurementsPlugin pluginVersion]
+_OBJC_SELECTOR_REFERENCES_.7
+__OBJC_$_CLASS_METHODS_HYPMeasurementsPlugin
+__OBJC_$_PROTOCOL_REFS_HYPPlugin
+__OBJC_$_PROTOCOL_CLASS_METHODS_HYPPlugin
+__OBJC_$_PROTOCOL_CLASS_METHODS_OPT_HYPPlugin
+__OBJC_$_PROTOCOL_METHOD_TYPES_HYPPlugin
+__OBJC_PROTOCOL_$_HYPPlugin
+__OBJC_LABEL_PROTOCOL_$_HYPPlugin
+__OBJC_CLASS_PROTOCOLS_$_HYPMeasurementsPlugin
+__OBJC_METACLASS_RO_$_HYPMeasurementsPlugin
+__OBJC_$_PROP_LIST_HYPMeasurementsPlugin
+__OBJC_CLASS_RO_$_HYPMeasurementsPlugin
+/Users/distiller/project/Measurements/HYPMeasurementsPlugin.m
+Measurements/HYPMeasurementsPlugin.m
